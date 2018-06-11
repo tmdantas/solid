@@ -11,7 +11,7 @@ Escreva também os testes de unidade.
 
 Os métodos marcados com o comentário "Este método não precisa ser implementado.", realmente não precisam ser implementados.
 
-Este projeto foi em um nos cursos de:
+Este projeto foi baseado em um nos cursos de:
 Steve Smith 
 
 https://www.linkedin.com/in/stevenandrewsmith/
