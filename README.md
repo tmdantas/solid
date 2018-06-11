@@ -5,7 +5,7 @@ Neste repositório temos um projeto que fere alguns dos princípios do SOLID.
 
 Para dar continuidade a sua entrevista, precisamos que você reescreva o código aplicando o SOLID.
 
-Deixe o código o mais limpo e legivel possível, caso precise altere nomes de métodos e propriedades.
+Deixe o código o mais limpo e legível possível, caso precise altere nomes de métodos e propriedades.
 
 Escreva também os testes de unidade.
 
