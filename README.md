@@ -10,7 +10,7 @@ Escreva também os testes de unidade.
 
 Os métodos marcados com o comentário "Este método não precisa ser implementado.", realmente não precisam ser implementados.
 
-Após concluir o desenvolvimento, enviar a solução via Pull Request.
+Após concluir o desenvolvimento, enviar a solução via pull request.
 
 Este projeto foi baseado em um dos cursos de:
 Steve Smith 
