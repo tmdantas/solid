@@ -1,5 +1,4 @@
 # Aplique os princípios do SOLID
-Entrevista
 
 Neste repositório temos um projeto que fere alguns dos princípios do SOLID.
 
@@ -11,7 +10,9 @@ Escreva também os testes de unidade.
 
 Os métodos marcados com o comentário "Este método não precisa ser implementado.", realmente não precisam ser implementados.
 
-Este projeto foi baseado em um nos cursos de:
+Após concluir o desenvolvimento, enviar a solução via Pull Request.
+
+Este projeto foi baseado em um dos cursos de:
 Steve Smith 
 
 https://www.linkedin.com/in/stevenandrewsmith/
