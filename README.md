@@ -1,4 +1,4 @@
-# solid
+# Aplique os princípios do SOLID
 Entrevista
 
 Neste repositório temos um projeto que fere alguns dos princípios do SOLID.
